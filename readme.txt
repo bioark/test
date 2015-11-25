@@ -8,3 +8,4 @@ creatint a new branch is so fast.
 
 understand index or stage
 git diff HEAD -- readme.txt
+second modify
